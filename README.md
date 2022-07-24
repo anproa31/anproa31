@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/an_buiii.svg" width="1200" alt="an_buiii_DG001" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -67,23 +67,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/anbuiii0307/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="an_buiii-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.youtube.com/channel/UC5U1zv6Ocqu2woRi2BKU_Qg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="an_buiii-youtube" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.linkedin.com/in/bui-an-788a1b219/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="an_buiii-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.instagram.com/an_buiii/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="an_buiii-instagram" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:anbuiii37@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="an_buiii-email" />
   </a>
 </div>
 
@@ -92,6 +89,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/anbuiii.svg" width="846" height="150" alt="an_buiii_DG001" />
 </a>
 
