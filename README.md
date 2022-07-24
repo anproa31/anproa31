@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="svg/an_buiii.svg" width="1200" alt="an_buiii_DG001" />
 </a>
