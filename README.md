@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/an_buiii.svg" width="1200" alt="an_buiii_DG001" />
+  <img src="svg/an_buiii.svg" width="500" alt="an_buiii_DG001" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
